@@ -32,7 +32,7 @@ public class BJTest15685_20181016 {
 				  }
 			 }
 		 }
-		 System.out.println("aws : " + result);
+		 System.out.println(result);
 	}
 	public static void solve(int x, int y, int way, int circleNum) {
 		
