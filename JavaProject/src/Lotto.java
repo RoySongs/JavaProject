@@ -1,5 +1,4 @@
 import java.io.IOException;
-import java.util.Random;
 
 
 public class Lotto {
@@ -819,7 +818,7 @@ public class Lotto {
 		
 		
 		
-		// ¿©±â¼­ºÎÅÍ ½ÃÀÛ
+		// ï¿½ï¿½ï¿½â¼­ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 		
 		int i,j;
 		
